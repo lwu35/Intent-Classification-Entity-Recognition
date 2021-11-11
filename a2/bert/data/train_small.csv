@@ -1,0 +1,100 @@
+utterances,IOB Slot tags,Core Relations
+who plays luke on star wars new hope,O O B_char O B_movie I_movie I_movie I_movie,movie.starring.actor movie.starring.character
+show credits for the godfather,O O O B_movie I_movie,movie.starring.actor
+who was the main actor in the exorcist,O O O O O O B_movie I_movie,movie.starring.actor
+who played dory on finding nemo,O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+who was the female lead in resident evil,O O O O O O B_movie I_movie,movie.starring.actor actor.gender
+who played guido in life is beautiful,O O B_char O B_movie I_movie I_movie,movie.starring.actor movie.starring.character
+who was the co-star in shoot to kill,O O O O O B_movie I_movie I_movie,movie.starring.actor
+find the guy who plays charlie on charlie's angels,O O O O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+cast and crew of movie the campaign,O O O O O B_movie I_movie,movie.starring.actor
+cast and crew of the campaign,O O O O B_movie I_movie,movie.starring.actor
+who plays in the movie the campaign,O O O O O B_movie I_movie,movie.starring.actor
+who starred in the campaign,O O O B_movie I_movie,movie.starring.actor
+who were the crew for the campaign,O O O O O B_movie I_movie,movie.starring.actor
+who was the lead man in taxi driver,O O O O O O B_movie I_movie,movie.starring.actor
+star of twilight,O O B_movie,movie.starring.actor
+who stars in vulgaria,O O O B_movie,movie.starring.actor
+what are the names of female actors who played in lost,O O O O O O O O O O B_movie,movie.starring.actor actor.gender
+can i see the set list and cast for life is beautiful,O O O O O O O O O B_movie I_movie I_movie,movie.starring.actor
+cast and crew of life is beautiful,O O O O B_movie I_movie I_movie,movie.starring.actor
+show cast and crew for the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,movie.starring.actor
+what's the cast for life is beautiful,O O O O B_movie I_movie I_movie,movie.starring.actor
+who played in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who played in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who was in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who were roberto benigni's costars on life is beautiful,O O O O O O B_movie I_movie I_movie,movie.starring.actor
+i am looking for the actor that played in pretty women,O O O O O O O O O B_movie I_movie,movie.starring.actor
+star of troy,O O B_movie,movie.starring.actor
+who played robin in batman forever,O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+find the male actor from dirty harry,O O O O O B_movie I_movie,movie.starring.actor actor.gender
+show me the actor of the ranam,O O O O O O B_movie,movie.starring.actor
+rocky actor,B_movie O,movie.starring.actor
+what actor played in the amazing spider man,O O O O B_movie I_movie I_movie I_movie,movie.starring.actor
+who are the actors in captain america,O O O O O B_movie I_movie,movie.starring.actor
+who starred in captain america,O O O B_movie I_movie,movie.starring.actor
+who was in the movie captain america,O O O O O B_movie I_movie,movie.starring.actor
+who were the cast members in the hobbist,O O B_movie O O O B_movie I_movie,movie.starring.actor
+show me the actor of the movie varsham,O O O O O O O B_movie,movie.starring.actor
+which female actors starred in hitch,O O O O O B_movie,movie.starring.actor actor.gender
+can i see the cast and crew for the movie in july,O O O O O O O O O O B_movie I_movie,movie.starring.actor
+list cast and crew in july,O O O O B_movie I_movie,movie.starring.actor
+who stars in in july,O O O B_movie I_movie,movie.starring.actor
+who stars in in july,O O O B_movie I_movie,movie.starring.actor
+roll credits for top gun,O O O B_movie I_movie,movie.starring.actor
+show me the actor of the movie sirisiri muvva,O O O O O O O B_movie I_movie,movie.starring.actor
+rocky 2 actor,B_movie I_movie O,movie.starring.actor
+who is chewbakka,O O B_char,movie.starring.actor movie.starring.character
+who stared in i love lucy,O O O B_movie I_movie I_movie,movie.starring.actor
+apollo thirteen cast members,B_movie I_movie O O,movie.starring.actor
+can you tell me more about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+cast and crew for apollo thirteen,O O O O B_movie I_movie,movie.starring.actor
+castmembers of apollo thirteen,O O B_movie I_movie,movie.starring.actor
+complete cast and crew of apollo thirteen,O O O O O B_movie I_movie,movie.starring.actor
+find for information about the cast of appolo thirteen,O O O O O O O B_movie I_movie,movie.starring.actor
+find info on the crew of apollo thirteen,O O O O O O B_movie I_movie,movie.starring.actor
+give me more facts about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+i need to know in detail about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+i want to find information about the cast of apollo thirteen,O O O O O O O O O B_movie I_movie,movie.starring.actor
+show me more information about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+what actors were in dirty dancing,O O O O B_movie I_movie,movie.starring.actor
+show me the actors in captain america,O O O O O B_movie I_movie,movie.starring.actor
+i can't remember the lead guy in the avengers,O O O B_movie O O O B_movie I_movie,movie.starring.actor
+show cast list for the avergers,O O O O B_movie I_movie,movie.starring.actor
+who plays nemo in finding nemo,O O B_char O B_movie B_movie,movie.starring.actor movie.starring.character
+find cast and crew for the movie finding nemo,O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast and crew for finding nemo,O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast of finding nemo,O O O O O B_movie I_movie,movie.starring.actor
+who are the main voices in finding nemo,O O O O O O B_movie I_movie,movie.starring.actor
+who starred in finding nemo,O O O B_movie I_movie,movie.starring.actor
+who stars in finding nemo,O O O B_movie I_movie,movie.starring.actor
+who was the main character in men in black 3,O O O O O O B_movie I_movie I_movie I_movie,movie.starring.actor
+can i see the credits for dirty dancing,O O O O O O B_movie I_movie,movie.starring.actor
+cast of dirty dancing,O O B_movie I_movie,movie.starring.actor
+find cast and crew for dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+search cast and crew for dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+search for the cast and crew for the movie dirty dancing,O O O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast and list for dirty dancing,O O O O O O O B_movie I_movie,movie.starring.actor
+who starred in dirty dancing,O O O B_movie I_movie,movie.starring.actor
+who starred in dirty dancing,O O O B_movie I_movie,movie.starring.actor
+who were the stars of dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+who was the male star of titanic,O O O O O O B_movie,movie.starring.actor actor.gender
+who starred in taxi,O O O B_movie,movie.starring.actor
+who played in the oranges,O O O B_movie I_movie,movie.starring.actor
+actors for life is beautiful,O O B_movie I_movie I_movie,movie.starring.actor
+who are the lead actors in life is beautiful,O O O O O O B_movie I_movie I_movie,movie.starring.actor
+find the male actor from the movie born free,O O O O O O O B_movie I_movie,movie.starring.actor actor.gender
+actor from iron man,O O B_movie I_movie,movie.starring.actor
+shows actors in shoot to kill,O O O B_movie I_movie I_movie,movie.starring.actor
+which actors starred in hitch,O O O O B_movie,movie.starring.actor
+who are all of the actors in hitch,O O O O O O O B_movie,movie.starring.actor
+who was the lead actor in hitch,O O O O O O B_movie,movie.starring.actor
+who starred in dark knight rising,O O O B_movie I_movie I_movie,movie.starring.actor
+who played nick fury in the avengers,O O B_char I_char O B_movie I_movie,movie.starring.actor movie.starring.character
+who was the lead actor in the avengers,O O O O O O B_movie I_movie,movie.starring.actor
+what was the cast of black swan,O O O O O B_movie I_movie,movie.starring.actor
+who acted in black swan,O O O B_movie I_movie,movie.starring.actor
+who was in black swan,O O O B_movie I_movie,movie.starring.actor
+who was the lead in black swan,O O O O O B_movie I_movie,movie.starring.actor
+actors in star wars four,O O B_movie I_movie I_movie,movie.starring.actor
+what was the actor who played esme in twilight,O O O O O O B_char O B_movie,movie.starring.actor movie.starring.character
